@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Energy and Human Ambitions</title>
+  <desc id="desc">A green-blue planet with a gold sun and ray on a deep forest background.</desc>
+  <rect width="512" height="512" rx="96" fill="#102117"/>
+  <circle cx="256" cy="290" r="130" fill="#2e8b57"/>
+  <ellipse cx="230" cy="270" rx="70" ry="40" fill="#3fa76a" opacity="0.85"/>
+  <path d="M180 330 C220 300 280 340 330 310" fill="none" stroke="#b7e4c7" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="370" cy="140" r="42" fill="#f4d35e"/>
+  <path d="M330 170 L290 210" stroke="#f4d35e" stroke-width="16" stroke-linecap="round"/>
+</svg>
