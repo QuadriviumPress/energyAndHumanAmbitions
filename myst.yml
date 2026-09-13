@@ -87,4 +87,6 @@ site:
   actions:
     - title: Original OER
       url: https://escholarship.org/uc/item/9js5291m
-  nav: []
+  nav:
+    - title: Sources & Attribution
+      url: https://github.com/QuadriviumPress/EnergyAndHumanAmbitions/blob/main/SOURCES.md
