@@ -19,7 +19,7 @@ project:
     content: CC-BY-NC-4.0
   open_access: true
   doi: 10.21221/S2978-0-578-86717-5
-  github: QuadriviumPress/EnergyAndHumanAmbitions
+  github: QuadriviumPress/energyAndHumanAmbitions
   keywords:
     - energy
     - growth
@@ -89,4 +89,4 @@ site:
       url: https://escholarship.org/uc/item/9js5291m
   nav:
     - title: Sources & Attribution
-      url: https://github.com/QuadriviumPress/EnergyAndHumanAmbitions/blob/main/SOURCES.md
+      url: https://github.com/QuadriviumPress/energyAndHumanAmbitions/blob/main/SOURCES.md
