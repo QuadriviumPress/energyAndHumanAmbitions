@@ -30,7 +30,7 @@ label: image-attributions
 
 12. [Fig. 9.8](#fig-9-8) (p. 150): Created by Robert A. Rohde, posted on NASA site: <https://earthobservatory.nasa.gov/features/EnergyBalance/page7.php>.
 
-13. [Fig. 9.16](#fig-9-16) (p. 160): From the National Oceanic and Atmospheric Administration’s Climate.gov site; Public Domain.
+13. [Fig. 9.16](#fig-9-16) (p. 160): From the National Oceanic and Atmospheric Administration’s Climate&#46;gov site; Public Domain.
 
 14. [Fig. 12.2](#fig-12-2) (p. 195): Sourced from U.S. Department of Energy and National Renewable Energy Lab; Public Domain.
 

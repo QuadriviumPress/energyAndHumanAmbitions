@@ -113,12 +113,12 @@ We’ll make Earth the size of a grain of sand (about 1 mm diameter). The moon i
 
 | Body | Symbol | Approx. Radius | Distance (AU) | Alt. Distance |
 | --- | --- | --- | --- | --- |
-| Earth | $\oplus$ | $R_{\oplus}\approx 6,400$ km | — | — |
-| Moon | $\unicode{x263E}$ | $\frac14 R_{\oplus}$ | — | $60R_{\oplus}\approx 240R_{\unicode{x263E}}$ |
-| Sun | $\odot$ | $100R_{\oplus}$ | 1 | $240R_{\odot}$ |
-| Mars | $\mars$ | $\frac12 R_{\oplus}$ | 0.4–2.7 | — |
-| Jupiter | $\unicode{x2643}$ | $10R_{\oplus}\approx \frac{1}{10}R_{\odot}$ | 4–6 | — |
-| Neptune | $\unicode{x2646}$ | $4R_{\oplus}$ | $\sim 30$ | — |
+| Earth | ⊕ | $R_{\oplus}\approx 6,400$ km | — | — |
+| Moon | ☾ | $\frac14 R_{\oplus}$ | — | $60R_{\oplus}\approx 240R_{\mathrm{moon}}$ |
+| Sun | ⊙ | $100R_{\oplus}$ | 1 | $240R_{\odot}$ |
+| Mars | ♂ | $\frac12 R_{\oplus}$ | 0.4–2.7 | — |
+| Jupiter | ♃ | $10R_{\oplus}\approx \frac{1}{10}R_{\odot}$ | 4–6 | — |
+| Neptune | ♆ | $4R_{\oplus}$ | $\sim 30$ | — |
 | Proxima Centauri | — | $0.15R_{\odot}$ | 270,000 | 4.2 light years |
 :::
 
