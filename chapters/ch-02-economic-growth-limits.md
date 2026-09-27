@@ -38,7 +38,7 @@ What was true in the past is largely still true today: resources like oil, steel
 :::{figure} ../images/fig-2-1.svg
 :label: fig-2-1
 :enumerator: 2.1
-:alt: Per capita energy use as a function of GDP on a logarithmic scale. Per capita GDP is the sum total of a country’s economy divided by population, effectively indicating average annual income. The rate at which an individual uses energy is expressed
+:alt: Per capita energy use as a function of GDP on a logarithmic scale. Per capita GDP is the sum total of a country’s economy divided by population, effectively indicating average annual income. The rate at which an individual uses energy is expressed as a power, in Watts. A strong correlation exists here across many orders-of-magnitude: rich countries use more energy, per person [[6](#ref-6), [7](#ref-7), [8](#ref-8)]. A few instructive cases (red dots) are labeled. The dot areas are scaled to population.
 
 Per capita energy use as a function of GDP on a logarithmic scale. Per capita GDP is the sum total of a country’s economy divided by population, effectively indicating average annual income. The rate at which an individual uses energy is expressed as a power, in Watts. A strong correlation exists here across many orders-of-magnitude: rich countries use more energy, per person [[6](#ref-6), [7](#ref-7), [8](#ref-8)]. A few instructive cases (red dots) are labeled. The dot areas are scaled to population.
 :::
@@ -71,7 +71,7 @@ We will cover units of energy in [Chapter 5](#ch-5). For now, it is sufficient t
 :::{figure} ../images/fig-2-2.svg
 :label: fig-2-2
 :enumerator: 2.2
-:alt: Energy intensity of countries, on a log–log plot. The vertical axis shows how energetically “hungry” each country is in relation to its economic output, while the horizontal axis sorts countries by economic output per person. A few instructive cases
+:alt: Energy intensity of countries, on a log–log plot. The vertical axis shows how energetically “hungry” each country is in relation to its economic output, while the horizontal axis sorts countries by economic output per person. A few instructive cases (red dots) are labeled. The dot areas are scaled to population. Prosperous countries tend to have lower intensity than developing countries, but part of this may relate to moving manufacturing from the former to the latter [[6](#ref-6), [7](#ref-7), [8](#ref-8)].
 
 Energy intensity of countries, on a log–log plot. The vertical axis shows how energetically “hungry” each country is in relation to its economic output, while the horizontal axis sorts countries by economic output per person. A few instructive cases (red dots) are labeled. The dot areas are scaled to population. Prosperous countries tend to have lower intensity than developing countries, but part of this may relate to moving manufacturing from the former to the latter [[6](#ref-6), [7](#ref-7), [8](#ref-8)].
 :::
@@ -151,7 +151,7 @@ Bulb packaging still refers to the “equivalent wattage” of a bulb, even thou
 :::{figure} ../images/fig-2-3.svg
 :label: fig-2-3
 :enumerator: 2.3
-:alt: Historical progress of lighting efficiency on a logarithmic plot, using bars to indicate the approximate range of time and performance. The dashed line at top represents the maximum theoretical luminous efficacy for white light (no waste heat). The
+:alt: Historical progress of lighting efficiency on a logarithmic plot, using bars to indicate the approximate range of time and performance. The dashed line at top represents the maximum theoretical luminous efficacy for white light (no waste heat). The dotted line rises by our customary factor of ten per century (2.3% annual rate). Note that the guiding line reaches the theoretical maximum mid-century (red star), indicating that this centuries-long ride cannot continue much longer [[10](#ref-10), [11](#ref-11)].
 
 Historical progress of lighting efficiency on a logarithmic plot, using bars to indicate the approximate range of time and performance. The dashed line at top represents the maximum theoretical luminous efficacy for white light (no waste heat). The dotted line rises by our customary factor of ten per century (2.3% annual rate). Note that the guiding line reaches the theoretical maximum mid-century (red star), indicating that this centuries-long ride cannot continue much longer [[10](#ref-10), [11](#ref-11)].
 :::
@@ -216,7 +216,7 @@ Let us now consider a thought experiment. We will use [Figure 2.4](#fig-2-4) as 
 :::{figure} ../images/fig-2-4.svg
 :label: fig-2-4
 :enumerator: 2.4
-:alt: Model evolution of the economy after physical resources saturate. The blue curve is the scale of the physical economy (leveling out, or saturating). The solid red curve is the total economic scale, which we force to adhere to a constant growth rate
+:alt: Model evolution of the economy after physical resources saturate. The blue curve is the scale of the physical economy (leveling out, or saturating). The solid red curve is the total economic scale, which we force to adhere to a constant growth rate $(10\times$ per century, or 2.3% annual rate). The magenta curve is the percentage of the economy in non-physical sectors, and the red dashed curve is a more realistic reaction of the economy to a saturating physical sector. Colored arrows point to the scale that each curve should use—logarithmic on the left for economic scales and linear on the right for the percentage curve. This model is constructed simply to illustrate the overall behavior: time scales and other quantitative details should not be taken literally.
 
 Model evolution of the economy after physical resources saturate. The blue curve is the scale of the physical economy (leveling out, or saturating). The solid red curve is the total economic scale, which we force to adhere to a constant growth rate $(10\times$ per century, or 2.3% annual rate). The magenta curve is the percentage of the economy in non-physical sectors, and the red dashed curve is a more realistic reaction of the economy to a saturating physical sector. Colored arrows point to the scale that each curve should use—logarithmic on the left for economic scales and linear on the right for the percentage curve. This model is constructed simply to illustrate the overall behavior: time scales and other quantitative details should not be taken literally.
 :::

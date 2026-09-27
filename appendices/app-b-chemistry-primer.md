@@ -51,7 +51,7 @@ Examples of a few familiar atoms and molecules are presented in [Figure B.2](#fi
 :::{figure} ../images/fig-b-2.svg
 :label: fig-b-2
 :enumerator: B.2
-:alt: Representing atoms as colored spheres for schematic purposes, we can depict the general appearance of molecules as bonded collections of atoms. Here, we have three elements—hydrogen, oxygen, and carbon—combined into familiar molecules. Oxygen in the
+:alt: Representing atoms as colored spheres for schematic purposes, we can depict the general appearance of molecules as bonded collections of atoms. Here, we have three elements—hydrogen, oxygen, and carbon—combined into familiar molecules. Oxygen in the air we breathe is self-bonded into a “diatomic” molecule. Two representations appear below each molecule: a diagram indicating bonds (including double-bonds in some cases), and the chemical formula.
 
 Representing atoms as colored spheres for schematic purposes, we can depict the general appearance of molecules as bonded collections of atoms. Here, we have three elements—hydrogen, oxygen, and carbon—combined into familiar molecules. Oxygen in the air we breathe is self-bonded into a “diatomic” molecule. Two representations appear below each molecule: a diagram indicating bonds (including double-bonds in some cases), and the chemical formula.
 :::
@@ -91,7 +91,7 @@ The job is done: the reaction is now balanced. That’s stoichiometry.
 :::{figure} ../images/fig-b-3.svg
 :label: fig-b-3
 :enumerator: B.3
-:alt: Two example fossil fuel reactions (combustion) are shown here. The first is coal and the second is natural gas (methane). Both cases simply rearrange the input atoms without creating or destroying any, so that the count is the same on both sides of
+:alt: Two example fossil fuel reactions (combustion) are shown here. The first is coal and the second is natural gas (methane). Both cases simply rearrange the input atoms without creating or destroying any, so that the count is the same on both sides of the arrow (which denotes the direction of the reaction). In other words, four purple hydrogens on the left in the case of methane must all appear on the right somewhere. The formula version also just counts instances of each atom/molecule, in which pre-factors (coefficients) indicate how many molecules are present.
 
 Two example fossil fuel reactions (combustion) are shown here. The first is coal and the second is natural gas (methane). Both cases simply rearrange the input atoms without creating or destroying any, so that the count is the same on both sides of the arrow (which denotes the direction of the reaction). In other words, four purple hydrogens on the left in the case of methane must all appear on the right somewhere. The formula version also just counts instances of each atom/molecule, in which pre-factors (coefficients) indicate how many molecules are present.
 :::

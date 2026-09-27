@@ -42,7 +42,7 @@ ultimately considers the last century or two to be the most insanely unusual per
 :::{figure} ../images/fig-8-1.svg
 :label: fig-8-1
 :enumerator: 8.1
-:alt: Energy over the ages, in the form of fossil fuels. Up until the present, fossil fuels capture the bulk of the human energy story. We know what it must look like in the long term as well. The huge question is how the second half of human history
+:alt: Energy over the ages, in the form of fossil fuels. Up until the present, fossil fuels capture the bulk of the human energy story. We know what it must look like in the long term as well. The huge question is how the second half of human history looks, after fossil fuels are depleted or abandoned. The yellow star is a guess as to our current position, based on evidence addressed later in the chapter suggesting that the resources are nearly halfway depleted.
 
 Energy over the ages, in the form of fossil fuels. Up until the present, fossil fuels capture the bulk of the human energy story. We know what it must look like in the long term as well. The huge question is how the second half of human history looks, after fossil fuels are depleted or abandoned. The yellow star is a guess as to our current position, based on evidence addressed later in the chapter suggesting that the resources are nearly halfway depleted.
 :::
@@ -418,7 +418,7 @@ Years remaining in the global conventional oil resource as a function of time, e
 :::{figure} ../images/fig-8-9.svg
 :label: fig-8-9
 :enumerator: 8.9
-:alt: North Sea (U.K.) oil discoveries (blue, in giga-barrels per year) peaked in the 1970s and have basically ended. Production (red) lags discovery, and cannot carry on much longer as the last of the discovered oil (unshaded blue outline) is extracted.
+:alt: North Sea (U.K.) oil discoveries (blue, in giga-barrels per year) peaked in the 1970s and have basically ended. Production (red) lags discovery, and cannot carry on much longer as the last of the discovered oil (unshaded blue outline) is extracted. Plot conventions follow those in [Figure 8.7](#fig-8-7).
 
 North Sea (U.K.) oil discoveries (blue, in giga-barrels per year) peaked in the 1970s and have basically ended. Production (red) lags discovery, and cannot carry on much longer as the last of the discovered oil (unshaded blue outline) is extracted. Plot conventions follow those in [Figure 8.7](#fig-8-7).
 :::
@@ -445,7 +445,7 @@ Another wrinkle worth mentioning is the geopolitical angle. Much of the world’
 :::{figure} ../images/fig-8-11.svg
 :label: fig-8-11
 :enumerator: 8.11
-:alt: Distribution of proven oil reserves by country, on left, according to the U.S. Energy Information Administration. The oil in Venezuela and Canada is heavy oil, harder to extract and process than the light oil characteristic of the middle-east. At
+:alt: Distribution of proven oil reserves by country, on left, according to the U.S. Energy Information Administration. The oil in Venezuela and Canada is heavy oil, harder to extract and process than the light oil characteristic of the middle-east. At right is the oil consumption by country for the top ten consumers (U.S. EIA). Note that the U.S. possesses 2% of the oil, but consumes about 20% of annual production, and an overall lack of correlation between who *has* oil and who *needs* it.
 
 Distribution of proven oil reserves by country, on left, according to the U.S. Energy Information Administration. The oil in Venezuela and Canada is heavy oil, harder to extract and process than the light oil characteristic of the middle-east. At right is the oil consumption by country for the top ten consumers (U.S. EIA). Note that the U.S. possesses 2% of the oil, but consumes about 20% of annual production, and an overall lack of correlation between who *has* oil and who *needs* it.
 :::

@@ -545,7 +545,7 @@ No one has a crystal ball. No one can credibly say what the future holds. Anyone
 :::{figure} ../images/fig-20-1.svg
 :label: fig-20-1
 :enumerator: 20.1
-:alt: Asymmetric risk in the face of a potential devastating threat. Plan A is the natural response if the threat is not believed to be real, and Plan B is appropriate for mitigating the threat. The downside of the threat being real but sticking to Plan A
+:alt: Asymmetric risk in the face of a potential devastating threat. Plan A is the natural response if the threat is not believed to be real, and Plan B is appropriate for mitigating the threat. The downside of the threat being real but sticking to Plan A is catastrophic, whereas pursuing Plan B unnecessarily is not ideal, but not nearly as bad. We don’t get to choose reality (column), but we do get to choose the plan (row). Are we feeling lucky, or conservative?
 
 Asymmetric risk in the face of a potential devastating threat. Plan A is the natural response if the threat is not believed to be real, and Plan B is appropriate for mitigating the threat. The downside of the threat being real but sticking to Plan A is catastrophic, whereas pursuing Plan B unnecessarily is not ideal, but not nearly as bad. We don’t get to choose reality (column), but we do get to choose the plan (row). Are we feeling lucky, or conservative?
 :::

@@ -70,7 +70,7 @@ Lower left start of the Chart of the Nuclides, shown pictorially in terms of the
 :::{figure} ../images/fig-15-3.svg
 :label: fig-15-3
 :enumerator: 15.3
-:alt: Layout of the Chart of the Nuclides, showing positions of naturally occurring nuclei (stable or long-lived enough to be present on Earth). Stable nuclei tend to have more neutrons than protons—especially for heavier nuclei. This is why the track of
+:alt: Layout of the Chart of the Nuclides, showing positions of naturally occurring nuclei (stable or long-lived enough to be present on Earth). Stable nuclei tend to have more neutrons than protons—especially for heavier nuclei. This is why the track of stable nuclei bends away from the $N = Z$ diagonal line. Arrows point to important elements of iron, lead, thorium, and uranium at $Z$ values of 26, 82, 90, and 92, respectively.
 
 Layout of the Chart of the Nuclides, showing positions of naturally occurring nuclei (stable or long-lived enough to be present on Earth). Stable nuclei tend to have more neutrons than protons—especially for heavier nuclei. This is why the track of stable nuclei bends away from the $N = Z$ diagonal line. Arrows point to important elements of iron, lead, thorium, and uranium at $Z$ values of 26, 82, 90, and 92, respectively.
 :::
@@ -466,7 +466,7 @@ Being a probabilistic (random) process, each fission can result in a large set o
 :::{figure} ../images/fig-15-15.svg
 :label: fig-15-15
 :enumerator: 15.15
-:alt: Various fission product outcomes are possible, indicated here by four sets of colored star pairs and connecting lines. The average position of each pair is the yellow circle (the stars are diametrically opposite the circle), which guarantees that
+:alt: Various fission product outcomes are possible, indicated here by four sets of colored star pairs and connecting lines. The average position of each pair is the yellow circle (the stars are diametrically opposite the circle), which guarantees that the total number of neutrons and protons is unchanged from the parent nucleus to the daughter nuclei. To the extent that additional neutrons are left behind like crumbs, the stars will displace to the left of their indicated positions a bit, as hinted by the lighter-shaded “ghost” stars, whose offsets from the nominal star positions will also vary depending on how many neutrons are left out of the two final fragments. The coloring of the histogram indicates radioactive lifetime for the decay chain of a neutron-rich fragment at each mass number, matching the half-life color scheme used in [Figure 15.4](#fig-15-4).
 
 Various fission product outcomes are possible, indicated here by four sets of colored star pairs and connecting lines. The average position of each pair is the yellow circle (the stars are diametrically opposite the circle), which guarantees that the total number of neutrons and protons is unchanged from the parent nucleus to the daughter nuclei. To the extent that additional neutrons are left behind like crumbs, the stars will displace to the left of their indicated positions a bit, as hinted by the lighter-shaded “ghost” stars, whose offsets from the nominal star positions will also vary depending on how many neutrons are left out of the two final fragments. The coloring of the histogram indicates radioactive lifetime for the decay chain of a neutron-rich fragment at each mass number, matching the half-life color scheme used in [Figure 15.4](#fig-15-4).
 :::

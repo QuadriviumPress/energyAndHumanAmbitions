@@ -42,7 +42,7 @@ Sun
 :::{figure} ../images/fig-4-2.svg
 :label: fig-4-2
 :enumerator: 4.2
-:alt: Proving the point that textbooks are not conducive to correctly-scaled graphics of objects in space, by the time the Earth-Sun distance spans the page, Earth (on far right) is too small to be visible in print, at less than 1% the diameter of the
+:alt: Proving the point that textbooks are not conducive to correctly-scaled graphics of objects in space, by the time the Earth-Sun distance spans the page, Earth (on far right) is too small to be visible in print, at less than 1% the diameter of the orange sun at far left. The Earth–Moon distance is about the width of the arrow shaft pointing to Earth. Humans have *never* traveled more than the arrow shaft’s width from Earth, and have not even gone 0.2% *that far* in about 50 years! Mars, on average, is farther from Earth than is the sun.
 
 Proving the point that textbooks are not conducive to correctly-scaled graphics of objects in space, by the time the Earth-Sun distance spans the page, Earth (on far right) is too small to be visible in print, at less than 1% the diameter of the orange sun at far left. The Earth–Moon distance is about the width of the arrow shaft pointing to Earth. Humans have *never* traveled more than the arrow shaft’s width from Earth, and have not even gone 0.2% *that far* in about 50 years! Mars, on average, is farther from Earth than is the sun.
 :::
@@ -177,7 +177,7 @@ But penetrating the nature of the individual galaxies (coins, in the previous ex
 :::{figure} ../images/fig-4-3.jpg
 :label: fig-4-3
 :enumerator: 4.3
-:alt: Galaxies are actually distributed in a frothy foam-like pattern crudely lining the edges of vast bubbles (voids; appearing as dark regions in the image). This structure forms as a natural consequence of gravity as galaxies pull on each other and
+:alt: Galaxies are actually distributed in a frothy foam-like pattern crudely lining the edges of vast bubbles (voids; appearing as dark regions in the image). This structure forms as a natural consequence of gravity as galaxies pull on each other and coalesce into groups, leaving emptiness between. This graphic shows the bubble edges and filaments where galaxies collect. The larger galaxies are bright dots in this view—almost like cities along a 3-dimensional web of highways through the vast emptiness. From the Millennium Simulation [[25](#ref-25)].
 
 Galaxies are actually distributed in a frothy foam-like pattern crudely lining the edges of vast bubbles (voids; appearing as dark regions in the image). This structure forms as a natural consequence of gravity as galaxies pull on each other and coalesce into groups, leaving emptiness between. This graphic shows the bubble edges and filaments where galaxies collect. The larger galaxies are bright dots in this view—almost like cities along a 3-dimensional web of highways through the vast emptiness. From the Millennium Simulation [[25](#ref-25)].
 :::

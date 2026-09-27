@@ -53,7 +53,10 @@ band gap
 : is the energy difference between the conduction band and the valence band, determining how much energy is needed to promote an electron out of an atom and into conduction.
 
 barrel
-: (bbl) is a unit of volume used primarily for petroleum. It is exactly 42 U.S. gallons, amounting to 159 L of volume. A commonly used measure of energy is barrels of oil equivalent (b.o.e.), amounting to 6.1 GJ of combustion energy. 117, 125, 131, 134–136, 140, 146, 221, 278 **beta decay** $(\beta)$ happens when a nucleus emits either an electron $(\beta ^{-})$ or a positron $(\beta ^{+})$.
+: (bbl) is a unit of volume used primarily for petroleum. It is exactly 42 U.S. gallons, amounting to 159 L of volume. A commonly used measure of energy is barrels of oil equivalent (b.o.e.), amounting to 6.1 GJ of combustion energy. 117, 125, 131, 134–136, 140, 146, 221, 278
+
+beta decay
+: $(\beta)$ happens when a nucleus emits either an electron $(\beta ^{-})$ or a positron $(\beta ^{+})$.
 
 Betz limit
 : is a theoretical maximum amount of kinetic power that can be removed from wind without slowing the wind too much. It computes to 19/27, or 59%, and is independent of technology [[71](#ref-71), [72](#ref-72)].
@@ -92,7 +95,10 @@ Btu
 : is short for British thermal unit.
 
 Calorie
-: (Cal, or kcal) is a unit of energy, defined as the amount of energy required to heat one kilogram (1 kg, 1 L, 1,000 $\mathrm{cm}^{3})$ of water by $1^{\circ}\mathrm{C}$. It is equivalent to 4,184 Joules, and is the exact same thing as a kilocalorie. Note the capital C differentiates it from the calorie, which is 1,000 times smaller, making this the dumbest unit convention around, and strongly favoring the use of the equivalent kcal instead. 78 **calorie** (cal) is a unit of energy, defined as the amount of energy required to heat one gram (1 g, 1 mL, 1 $\mathrm{cm}^{3})$ of water by $1^{\circ}\mathrm{C}$. It is equivalent to 4.184 Joules.
+: (Cal, or kcal) is a unit of energy, defined as the amount of energy required to heat one kilogram (1 kg, 1 L, 1,000 $\mathrm{cm}^{3})$ of water by $1^{\circ}\mathrm{C}$. It is equivalent to 4,184 Joules, and is the exact same thing as a kilocalorie. Note the capital C differentiates it from the calorie, which is 1,000 times smaller, making this the dumbest unit convention around, and strongly favoring the use of the equivalent kcal instead. 78
+
+calorie
+: (cal) is a unit of energy, defined as the amount of energy required to heat one gram (1 g, 1 mL, 1 $\mathrm{cm}^{3})$ of water by $1^{\circ}\mathrm{C}$. It is equivalent to 4.184 Joules.
 
 capacity factor
 : is the fraction of energy delivered by an installation compared to what it would deliver if operating continuously at peak operating (“nameplate”) capacity.
@@ -131,7 +137,10 @@ concentrated solar power
 : (CSP) refers to a form of solar thermal (ST) energy, employing troughs or “power towers” or any technique that focuses solar power to create high temperatures, often then used to generate electricity.
 
 conduction band
-: is the energy level a step up from that of electrons in the valence band. Electrons in the conduction band are very loosely bound and freely wander about the crystal, hopping from one atom to the next, and therefore able to contribute to a current. 212, 213 **confinement** in the context of fusion refers to the trapping and holding of a high-temperature plasma, usually by magnetic means.
+: is the energy level a step up from that of electrons in the valence band. Electrons in the conduction band are very loosely bound and freely wander about the crystal, hopping from one atom to the next, and therefore able to contribute to a current. 212, 213
+
+confinement
+: in the context of fusion refers to the trapping and holding of a high-temperature plasma, usually by magnetic means.
 
 conservation of energy
 : says that energy is never created or destroyed, only shifting from one form to another.
@@ -173,7 +182,10 @@ decoupling
 : is the notion that economic activities need not incur a large energy or resource cost, breaking the tendency for economic scale to be tightly coupled to physical goods.
 
 demographic transition
-: refers to the process in which an undeveloped country initially having high birth rate and high death rate transitions to low death rates followed by low birth rates as medical and resource conditions improve. 42, 47 **deuterium** is an isotope of hydrogen, in which the nucleus (called a deuteron) contains one proton and one neutron.
+: refers to the process in which an undeveloped country initially having high birth rate and high death rate transitions to low death rates followed by low birth rates as medical and resource conditions improve. 42, 47
+
+deuterium
+: is an isotope of hydrogen, in which the nucleus (called a deuteron) contains one proton and one neutron.
 
 deuteron
 : is the nucleus of deuterium, consisting of one proton and one neutron.
@@ -215,7 +227,10 @@ electromagnetic spectrum
 : refers to the sweep of wavelengths or frequencies of electromagnetic radiation, including light, ultraviolet, infrared, X-rays, microwaves, gamma rays, and radio waves.
 
 electron
-: is a fundamental particle typically found in the outer parts of atoms, surrounding the nucleus. Electrons have negative charge equal and opposite to that of protons, but are 1,836 times lighter than the proton, at 0.511 MeV. 82, 83, 208, 212, 251, 256, 257, 267, 412 **electron-volt** (eV) is a unit of energy, defined as the energy (work) it takes to push a charge of one fundamental charge unit (see entry for Coulomb) through an electric potential of one Volt. 1 eV is equivalent to $1.6 \times 10^{-19}$ Joules.
+: is a fundamental particle typically found in the outer parts of atoms, surrounding the nucleus. Electrons have negative charge equal and opposite to that of protons, but are 1,836 times lighter than the proton, at 0.511 MeV. 82, 83, 208, 212, 251, 256, 257, 267, 412
+
+electron-volt
+: (eV) is a unit of energy, defined as the energy (work) it takes to push a charge of one fundamental charge unit (see entry for Coulomb) through an electric potential of one Volt. 1 eV is equivalent to $1.6 \times 10^{-19}$ Joules.
 
 element
 : pertains to a single atom on the Periodic Table. For instance, hydrogen, helium, and carbon are all elements.
@@ -251,7 +266,10 @@ EPM
 : Electric Power Monthly.
 
 EROEI
-: Energy Returned on Energy Invested: a measure of how profitable an energy source is in terms of energy, expressed as a ratio. For instance, a 9:1 EROEI means 9 units were extracted or produced for an investment of 1 unit, leaving a net gain of 8 units of energy. 1:1 is break-even, deriving no net energy benefit. 243, 247, 248, 290, 307, 310, 313, 314, 323, 324, 328, 352 **estimated total resource** is an educated extrapolation of proven reserves trying to characterize the amount of resource that may be ultimately found and extracted.
+: Energy Returned on Energy Invested: a measure of how profitable an energy source is in terms of energy, expressed as a ratio. For instance, a 9:1 EROEI means 9 units were extracted or produced for an investment of 1 unit, leaving a net gain of 8 units of energy. 1:1 is break-even, deriving no net energy benefit. 243, 247, 248, 290, 307, 310, 313, 314, 323, 324, 328, 352
+
+estimated total resource
+: is an educated extrapolation of proven reserves trying to characterize the amount of resource that may be ultimately found and extracted.
 
 ethanol
 : $(\mathrm{C}_{2}$H$_{5}$OH) is a liquid alcohol frequently produced as a biofuel having an energy density of $\sim 7$ kcal/g.
@@ -281,7 +299,7 @@ fossil fuel
 : refers to an energy source buried in the ground, in the form of coal (solid), petroleum (liquid), or natural gas (gaseous). Fossil fuels represent ancient solar energy captured in living matter, processed and stored underground over millions of years.
 
 fracking
-: is slang for **hydraulic fracturing**, a technique used to extract “tight” oil and gas resources locked up in less permeable rock formations. High-pressure fluids are used to create cracks in the rock that the allow oil and/or gas to flow.
+: is slang for **hydraulic fracturing**, a technique used to extract “tight” oil and gas resources locked up in less permeable rock formations. High-pressure fluids are used to create cracks in the rock that allow oil and/or gas to flow.
 
 frequency
 : characterizes the number of cycles per second in a periodic phenomenon (often in wave phenomena). The units are Hertz, or 1/s.
@@ -290,7 +308,10 @@ fuel rod
 : is a long cylinder having a high-enough concentration of fissile material to be used in a nuclear fission reactor.
 
 fusion
-: is a nuclear process in which two light nuclei merge to form a larger nucleus. Repulsion of the charges in the nuclei make it exceedingly hard to achieve, requiring temperatures of many millions of degrees. 90, 251, 261, 276, 301, 311, 412 **galaxy** is a collection of stars held together by mutual gravitational attraction, generally numbering in the billions of stars.
+: is a nuclear process in which two light nuclei merge to form a larger nucleus. Repulsion of the charges in the nuclei make it exceedingly hard to achieve, requiring temperatures of many millions of degrees. 90, 251, 261, 276, 301, 311, 412
+
+galaxy
+: is a collection of stars held together by mutual gravitational attraction, generally numbering in the billions of stars.
 
 gamma decay
 : $(\gamma)$ is when a nucleus in an energetically excited state emits a high-energy photon.
@@ -374,7 +395,10 @@ hydrological cycle
 : is the solar-driven process by which evaporation of water from the surface (bodies of water or moist land) forms clouds, and the clouds deliver rain back to the surface.
 
 infrared radiation
-: is the property that all objects glow in light, or electromagnetic radiation. For objects that are not “red hot,” the emission is invisible to the human eye, at longer wavelengths than the visible spectrum. The power radiated obeys the Stefan–Boltzmann law. 11, 89, 148, 152, 156, 166, 176, 413, 414 **insolation** is the annual average solar flux reaching flat, level ground for a particular location. A typical number is 200 $\mathrm{W/m}^{2}$, but can range from half that at high latitudes to about 350 $\mathrm{W/m}^{2}$ for arid areas at lower latitudes.
+: is the property that all objects glow in light, or electromagnetic radiation. For objects that are not “red hot,” the emission is invisible to the human eye, at longer wavelengths than the visible spectrum. The power radiated obeys the Stefan–Boltzmann law. 11, 89, 148, 152, 156, 166, 176, 413, 414
+
+insolation
+: is the annual average solar flux reaching flat, level ground for a particular location. A typical number is 200 $\mathrm{W/m}^{2}$, but can range from half that at high latitudes to about 350 $\mathrm{W/m}^{2}$ for arid areas at lower latitudes.
 
 inverse function
 : is a mathematical operation that “undoes” its counterpart, like the square root undoes the square, or the natural logarithm undoes the exponential.
@@ -415,8 +439,8 @@ kWh
 LED
 : light emitting diode.
 
-life-cycle
-: CO$_{2}$ **emission** is an assessment of how much CO$_{2}$ is released from an energy source when considering the entire enterprise—including manufacture/construction, operation, etc. See the Wikipedia page on List of life-cycle greenhouse gas emissions.
+life-cycle CO$_{2}$ emission
+: is an assessment of how much CO$_{2}$ is released from an energy source when considering the entire enterprise—including manufacture/construction, operation, etc. See the Wikipedia page on List of life-cycle greenhouse gas emissions.
 
 LNG
 : liquefied natural gas.
@@ -452,7 +476,10 @@ mole
 : is a *number* of atoms or molecules, tuned so that one mole of the carbon-12 isotope is exactly 12.000 grams. It takes $6.022 \times 10^{23}$ atoms for this to happen, which is called Avogadro’s number.
 
 negative feedback
-: involves a reaction to some stimulus in the direction opposite the stimulus, performing a corrective action and leading to stability. Systems in equilibrium must have negative feedback keeping them there. 36, 128, 152 **neo-classical economics** is the prevailing economic regime practiced today, driven by supply and demand, fueled by growth, market investment, and focus on micro-economics and macro-economics.
+: involves a reaction to some stimulus in the direction opposite the stimulus, performing a corrective action and leading to stability. Systems in equilibrium must have negative feedback keeping them there. 36, 128, 152
+
+neo-classical economics
+: is the prevailing economic regime practiced today, driven by supply and demand, fueled by growth, market investment, and focus on micro-economics and macro-economics.
 
 neutrino
 : is a fundamental particle associated with the weak nuclear force that has almost no mass, travels near the speed of light, and interacts so weakly with matter that it could pass through light-years of rock before being likely to hit anything. Neutrinos from the sun stream through our bodies constantly, day and night, since Earth is transparent to them.
@@ -485,13 +512,16 @@ parts per million
 : (ppm) is a unit used to measure small contributions. One ppm is 0.0001%.
 
 parts per million by mass
-: (ppm$_{\mathrm{m}})$ is a parts per million measure in terms of fractional mass. For instance, a gram is is 1 ppm$_{\mathrm{m}}$ of a metric ton (1,000 kg).
+: (ppm$_{\mathrm{m}})$ is a parts per million measure in terms of fractional mass. For instance, a gram is 1 ppm$_{\mathrm{m}}$ of a metric ton (1,000 kg).
 
 parts per million by volume
 : (ppm$_{\mathrm{v}})$ is a parts per million measure in terms of fractional volume occupied. For instance, a cubic millimeter (1 $\mu \mathrm{m}$, or micro-liter) is 1 ppm$_{\mathrm{v}}$ of a liter.
 
 payback time
-: is how long it takes to recuperate an investment by removing a chronic cost. For example, spending \$1,000 to no longer pay an annual \$100 charge has a payback time of 10 years. 225, 237 **photon** is the smallest indivisible particle of light: a minimum quantum packet of energy. Each photon has a well defined energy, which can also be expressed as a wavelength or frequency.
+: is how long it takes to recuperate an investment by removing a chronic cost. For example, spending \$1,000 to no longer pay an annual \$100 charge has a payback time of 10 years. 225, 237
+
+photon
+: is the smallest indivisible particle of light: a minimum quantum packet of energy. Each photon has a well defined energy, which can also be expressed as a wavelength or frequency.
 
 photosynthesis
 : is the process by which living matter captures sunlight and stores some of it as chemical energy. Effectively, it takes CO$_{2}$ out of the atmosphere, combines the carbon with water to make sugars, releasing oxygen back into the air.
@@ -527,7 +557,10 @@ proliferation
 : is used to describe widespread distribution of dangerous nuclear materials, which becomes difficult to control if they exist in abundance due to increased reliance on nuclear energy.
 
 proton
-: is one of two basic building blocks of atomic nuclei, the other being the neutron. Protons have positive charge, equal and opposite to that of the electron. Protons have a mass of 938.272 MeV, or 1.0072765 a.m.u. Protons are made up of three quarks: 2 up and 1 down. 82, 252, 255, 256, 391, 392, 412 **proven reserve** pertains to the amount of resource known to exist, having been discovered and surveyed to estimate the economically recoverable amount.
+: is one of two basic building blocks of atomic nuclei, the other being the neutron. Protons have positive charge, equal and opposite to that of the electron. Protons have a mass of 938.272 MeV, or 1.0072765 a.m.u. Protons are made up of three quarks: 2 up and 1 down. 82, 252, 255, 256, 391, 392, 412
+
+proven reserve
+: pertains to the amount of resource known to exist, having been discovered and surveyed to estimate the economically recoverable amount.
 
 PV
 : photovoltaic.
@@ -560,7 +593,10 @@ refinement
 : is the process by which crude oil—as it comes out of the ground—is separated by approximate hydrocarbon chain length. In order of lighter/shorter to heavier/longer chains, crude oil yields propane and butane, gasoline (around octane), kerosene, diesel, heating oil, lubricating oil, and tar.
 
 renewable
-: forms of energy are not necessarily depleted by their use. In other words, the resource is replenished naturally at some rate. The sun will still shine and wind will still blow even if we harness some of the energy. Firewood will grow back, but at a limited rate. 108, 109, 111 **response** is an appropriate reaction to a predicament, which may fall well short of a *solution*, but still represents a reasonable compromise approach.
+: forms of energy are not necessarily depleted by their use. In other words, the resource is replenished naturally at some rate. The sun will still shine and wind will still blow even if we harness some of the energy. Firewood will grow back, but at a limited rate. 108, 109, 111
+
+response
+: is an appropriate reaction to a predicament, which may fall well short of a *solution*, but still represents a reasonable compromise approach.
 
 rule of 70
 : tells us that the time it will take a system or collection to double in size is 70 divided by the percentage growth rate. The time units depend on how the time over which percentage growth is expressed—like 2% *per day* or 2% *per year*, for instance. The rule works most accurately for smaller growth rates, under 10%.
@@ -602,7 +638,10 @@ Stefan–Boltzmann law
 : says that the power emitted from a surface of area, $A$, and temperature, $T$ will be $P = A\sigma T^{4}$, where $\sigma$ is the Stefan–Boltzmann constant.
 
 stoichiometry
-: amounts to the counting of atoms and balancing formulas in chemical reactions to reflect the survival of every atom in a reaction: none created or destroyed. 393, 394 **strong nuclear force** is the force that binds nucleons together in a nucleus, overcoming the electrical repulsion of protons.
+: amounts to the counting of atoms and balancing formulas in chemical reactions to reflect the survival of every atom in a reaction: none created or destroyed. 393, 394
+
+strong nuclear force
+: is the force that binds nucleons together in a nucleus, overcoming the electrical repulsion of protons.
 
 substitution
 : refers to interchangeability between goods and services, so that an unavailable or inferior resource can be replaced by an alternative, possibly superior one.

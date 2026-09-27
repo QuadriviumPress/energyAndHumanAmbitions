@@ -277,7 +277,7 @@ change, but a hefty *passenger*.
 :::{figure} ../images/fig-9-9.svg
 :label: fig-9-9
 :enumerator: 9.9
-:alt: In the absence of greenhouse gases, infrared radiation has no difficulty escaping to space (left). When greenhouse gases (GHGs) are present (right), most of the infrared radiation is absorbed by GHG molecules. These molecules later release the
+:alt: In the absence of greenhouse gases, infrared radiation has no difficulty escaping to space (left). When greenhouse gases (GHGs) are present (right), most of the infrared radiation is absorbed by GHG molecules. These molecules later release the absorbed energy as new infrared radiation, but in a randomized direction, so that some energy is returned to the ground, thereby keeping the surface warmer than it would be without greenhouse gases.
 
 In the absence of greenhouse gases, infrared radiation has no difficulty escaping to space (left). When greenhouse gases (GHGs) are present (right), most of the infrared radiation is absorbed by GHG molecules. These molecules later release the absorbed energy as new infrared radiation, but in a randomized direction, so that some energy is returned to the ground, thereby keeping the surface warmer than it would be without greenhouse gases.
 :::

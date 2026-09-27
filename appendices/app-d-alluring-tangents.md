@@ -244,7 +244,7 @@ Tidal energy, covered in [Sec. 16.2](#sec-16-2) (p. 290), is one such entry that
 :::{figure} ../images/fig-d-1.svg
 :label: fig-d-1
 :enumerator: D.1
-:alt: The moon pulls harder on the near side of the earth, and less hard on the back side. Relative to the earth as a whole (medium force), the near side advances toward the moon and the back side lags the rest of the earth, creating a bulge on both sides
+:alt: The moon pulls harder on the near side of the earth, and less hard on the back side. Relative to the earth as a whole (medium force), the near side advances toward the moon and the back side lags the rest of the earth, creating a bulge on both sides that is aligned toward the moon. Note that a drawing to scale would put the moon well off the page.
 
 The moon pulls harder on the near side of the earth, and less hard on the back side. Relative to the earth as a whole (medium force), the near side advances toward the moon and the back side lags the rest of the earth, creating a bulge on both sides that is aligned toward the moon. Note that a drawing to scale would put the moon well off the page.
 :::
@@ -270,7 +270,7 @@ The second step is to appreciate that the earth rotates “underneath” the moo
 :::{figure} ../images/fig-d-3.svg
 :label: fig-d-3
 :enumerator: D.3
-:alt: Gravitationally, the earth looks like a big central mass and two bulge masses displaced from the connecting line. The closer mass pulls harder than the more distant one, so the addition of all the force vectors (not to scale) results in a little
+:alt: Gravitationally, the earth looks like a big central mass and two bulge masses displaced from the connecting line. The closer mass pulls harder than the more distant one, so the addition of all the force vectors (not to scale) results in a little asymmetry, leaving a small sideways component of the force along the same direction as the moon’s orbital velocity (up in this drawing).
 
 Gravitationally, the earth looks like a big central mass and two bulge masses displaced from the connecting line. The closer mass pulls harder than the more distant one, so the addition of all the force vectors (not to scale) results in a little asymmetry, leaving a small sideways component of the force along the same direction as the moon’s orbital velocity (up in this drawing).
 :::
@@ -282,7 +282,7 @@ Accelerating an orbiting object along its trajectory adds energy to the orbit an
 :::{figure} ../images/fig-d-4.svg
 :label: fig-d-4
 :enumerator: D.4
-:alt: If we built some inconceivable global-scale tidal capture structure the size of oceans and let them drain for six hours or so, the artificial bulges we created would travel farther around with the earth’s rotation, enhancing the sideways “kick” and
+:alt: If we built some inconceivable global-scale tidal capture structure the size of oceans and let them drain for six hours or so, the artificial bulges we created would travel farther around with the earth’s rotation, enhancing the sideways “kick” and encouraging the moon to climb away from earth at a faster rate.
 
 If we built some inconceivable global-scale tidal capture structure the size of oceans and let them drain for six hours or so, the artificial bulges we created would travel farther around with the earth’s rotation, enhancing the sideways “kick” and encouraging the moon to climb away from earth at a faster rate.
 :::

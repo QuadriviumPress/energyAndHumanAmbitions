@@ -21,7 +21,7 @@ Although the focus of this chapter will be on the alarming rate of population gr
 :::{figure} ../images/fig-3-1.svg
 :label: fig-3-1
 :enumerator: 3.1
-:alt: Population (red) and energy demand (blue) on the same plot, showing how much faster energy demand (power) has risen compared to population, which translates to increasing per-capita usage. The vertical axes are scaled so that the curves overlap in
+:alt: Population (red) and energy demand (blue) on the same plot, showing how much faster energy demand (power) has risen compared to population, which translates to increasing per-capita usage. The vertical axes are scaled so that the curves overlap in the nineteenth century. [[14](#ref-14), [15](#ref-15), [16](#ref-16)].
 
 Population (red) and energy demand (blue) on the same plot, showing how much faster energy demand (power) has risen compared to population, which translates to increasing per-capita usage. The vertical axes are scaled so that the curves overlap in the nineteenth century. [[14](#ref-14), [15](#ref-15), [16](#ref-16)].
 :::
@@ -366,7 +366,7 @@ Population growth happens when the birth rate exceeds the death rate.
 :::{figure} ../images/fig-3-10.svg
 :label: fig-3-10
 :enumerator: 3.10
-:alt: Net population rate, in percent, as a function of per-capita GDP. A clear trend shows wealthier countries having lower growth rates. A win–win solution would seem to present itself, in which everyone arrives at the lower right-hand side of this
+:alt: Net population rate, in percent, as a function of per-capita GDP. A clear trend shows wealthier countries having lower growth rates. A win–win solution would seem to present itself, in which everyone arrives at the lower right-hand side of this graph: more money for all and a stable population! Dot size (area) is proportional to population [[6](#ref-6), [8](#ref-8), [19](#ref-19), [20](#ref-20)].
 
 Net population rate, in percent, as a function of per-capita GDP. A clear trend shows wealthier countries having lower growth rates. A win–win solution would seem to present itself, in which everyone arrives at the lower right-hand side of this graph: more money for all and a stable population! Dot size (area) is proportional to population [[6](#ref-6), [8](#ref-8), [19](#ref-19), [20](#ref-20)].
 :::
@@ -398,7 +398,7 @@ In order to accomplish this goal, reduced death rates are facilitated by
 :::{figure} ../images/fig-3-11.svg
 :label: fig-3-11
 :enumerator: 3.11
-:alt: Birth rates and death rates for countries, where dot size is proportional to population. The diagonal line indicates parity between birth and death rates, resulting in no population growth. Countries above the line are growing population, while
+:alt: Birth rates and death rates for countries, where dot size is proportional to population. The diagonal line indicates parity between birth and death rates, resulting in no population growth. Countries above the line are growing population, while countries below are shrinking. A few countries fall a bit below this line [[8](#ref-8), [19](#ref-19), [20](#ref-20)].
 
 Birth rates and death rates for countries, where dot size is proportional to population. The diagonal line indicates parity between birth and death rates, resulting in no population growth. Countries above the line are growing population, while countries below are shrinking. A few countries fall a bit below this line [[8](#ref-8), [19](#ref-19), [20](#ref-20)].
 :::
@@ -558,7 +558,7 @@ Energy in this context is a proxy for other material resources. Consider the glo
 :::{figure} ../images/fig-3-17.svg
 :label: fig-3-17
 :enumerator: 3.17
-:alt: What our energy demand would have to do (blue-dashed line) if the growing global population (here projected as a red-dashed logistic curve) grew its per-capita energy consumption to current U.S. standards by the year 2100 (a factor-of-five
+:alt: What our energy demand would have to do (blue-dashed line) if the growing global population (here projected as a red-dashed logistic curve) grew its per-capita energy consumption to current U.S. standards by the year 2100 (a factor-of-five increase). Historical energy and population are represented as solid curves. The departure from past reality would have to be staggering [[15](#ref-15), [16](#ref-16)].
 
 What our energy demand would have to do (blue-dashed line) if the growing global population (here projected as a red-dashed logistic curve) grew its per-capita energy consumption to current U.S. standards by the year 2100 (a factor-of-five increase). Historical energy and population are represented as solid curves. The departure from past reality would have to be staggering [[15](#ref-15), [16](#ref-16)].
 :::

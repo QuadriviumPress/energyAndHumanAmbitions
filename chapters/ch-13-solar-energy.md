@@ -323,7 +323,7 @@ the sky near the equator, so panels there should lie flat.[^48] But at high nort
 :::{figure} ../images/fig-13-10.svg
 :label: fig-13-10
 :enumerator: 13.10
-:alt: The left globe shows the sun’s view of 21 panels of the same size sitting flat on the ground at their various sites. In the middle globe, the panels are all tilted up toward the equator. Notice the improvement in how much panel area is visible to
+:alt: The left globe shows the sun’s view of 21 panels of the same size sitting flat on the ground at their various sites. In the middle globe, the panels are all tilted up toward the equator. Notice the improvement in how much panel area is visible to the sun by doing this—especially at higher latitudes. At right is the side view, from which it is easier to appreciate why the best tilt angle is equal to the site latitude.
 
 The left globe shows the sun’s view of 21 panels of the same size sitting flat on the ground at their various sites. In the middle globe, the panels are all tilted up toward the equator. Notice the improvement in how much panel area is visible to the sun by doing this—especially at higher latitudes. At right is the side view, from which it is easier to appreciate why the best tilt angle is equal to the site latitude.
 :::
@@ -345,7 +345,7 @@ Some applications need to track the sun, like those that concentrate solar power
 :::{figure} ../images/fig-13-12.svg
 :label: fig-13-12
 :enumerator: 13.12
-:alt: On a fixed piece of land receiving a fixed amount of sunshine at a slant angle, the amount of energy received is independent of whether the panels are flat or tilted. Just tilting the flat panels up (middle) results in self-shading. It makes the
+:alt: On a fixed piece of land receiving a fixed amount of sunshine at a slant angle, the amount of energy received is independent of whether the panels are flat or tilted. Just tilting the flat panels up (middle) results in self-shading. It makes the most sense to tilt and separate panels (right), one benefit being that fewer panels are needed to collect the same incident energy.
 
 On a fixed piece of land receiving a fixed amount of sunshine at a slant angle, the amount of energy received is independent of whether the panels are flat or tilted. Just tilting the flat panels up (middle) results in self-shading. It makes the most sense to tilt and separate panels (right), one benefit being that fewer panels are needed to collect the same incident energy.
 :::
@@ -430,7 +430,7 @@ Another daunting realization is that even though only 0.4% of the land is needed
 :::{figure} ../images/fig-13-15.svg
 :label: fig-13-15
 :enumerator: 13.15
-:alt: Solar input (red) and electricity demand (blue) look nothing alike. Solar data from the author’s home begins 31 March 2020, while demand is for California. Tick marks denote the start of each date, at midnight. April 22–27 are essentially perfect
+:alt: Solar input (red) and electricity demand (blue) look nothing alike. Solar data from the author’s home begins 31 March 2020, while demand is for California. Tick marks denote the start of each date, at midnight. April 22–27 are essentially perfect cloudless days, while the earlier part of the month had rainy periods. Note that even a very rainy day (April 10) provides *some* solar power (15% as much as a full-sun day). Intermittent clouds cause the “hair” seen on some days. The capacity factor for the month is 19%, while the perfect six days near the end perform at 27% capacity. From this, we infer that weather caused the yield to be 70% what it would have been had every day been cloudless.
 
 Solar input (red) and electricity demand (blue) look nothing alike. Solar data from the author’s home begins 31 March 2020, while demand is for California. Tick marks denote the start of each date, at midnight. April 22–27 are essentially perfect cloudless days, while the earlier part of the month had rainy periods. Note that even a very rainy day (April 10) provides *some* solar power (15% as much as a full-sun day). Intermittent clouds cause the “hair” seen on some days. The capacity factor for the month is 19%, while the perfect six days near the end perform at 27% capacity. From this, we infer that weather caused the yield to be 70% what it would have been had every day been cloudless.
 :::
@@ -670,7 +670,7 @@ Full sun delivers something like 1,000 $\mathrm{W/m}^{2}$ at the earth’s surfa
 :::{figure} ../images/fig-13-21.svg
 :label: fig-13-21
 :enumerator: 13.21
-:alt: A well-designed house has thick walls, thick insulation, and double-paned windows. Even better, it can have south-facing windows that admit sunlight in the winter but not in the summer (the overhang shields the window). A large, dark thermal
+:alt: A well-designed house has thick walls, thick insulation, and double-paned windows. Even better, it can have south-facing windows that admit sunlight in the winter but not in the summer (the overhang shields the window). A large, dark thermal mass—stone or brick works well— can absorb energy and continue to release heat into the evening.
 
 A well-designed house has thick walls, thick insulation, and double-paned windows. Even better, it can have south-facing windows that admit sunlight in the winter but not in the summer (the overhang shields the window). A large, dark thermal mass—stone or brick works well— can absorb energy and continue to release heat into the evening.
 :::
@@ -691,7 +691,7 @@ Solar trough cross sections showing the focusing of sunlight onto a central pipe
 :::{figure} ../images/fig-13-23.svg
 :label: fig-13-23
 :enumerator: 13.23
-:alt: A common solar thermal power scheme uses parabolic “trough” reflectors to focus sunlight onto a central pipe, which carries oil that can be heated to very high temperatures for making steam to run a traditional electrical power plant very much like
+:alt: A common solar thermal power scheme uses parabolic “trough” reflectors to focus sunlight onto a central pipe, which carries oil that can be heated to very high temperatures for making steam to run a traditional electrical power plant very much like that of [Fig. 6.2](#fig-6-2) (p. 95). Optional thermal storage can save heat for later use.
 
 A common solar thermal power scheme uses parabolic “trough” reflectors to focus sunlight onto a central pipe, which carries oil that can be heated to very high temperatures for making steam to run a traditional electrical power plant very much like that of [Fig. 6.2](#fig-6-2) (p. 95). Optional thermal storage can save heat for later use.
 :::

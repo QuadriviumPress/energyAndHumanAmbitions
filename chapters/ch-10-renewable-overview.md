@@ -115,7 +115,7 @@ Notice that all of the unqualified[^12] “Yes” entries in [Table 10.1](#tab-1
 :::{figure} ../images/fig-10-1.svg
 :label: fig-10-1
 :enumerator: 10.1
-:alt: Energy inputs to the earth, ignoring the radiation piece (since that is an output channel). About 70% of incoming solar energy is absorbed by the atmosphere and land, while about 30% is immediately reflected back to space (mostly by clouds). About
+:alt: Energy inputs to the earth, ignoring the radiation piece (since that is an output channel). About 70% of incoming solar energy is absorbed by the atmosphere and land, while about 30% is immediately reflected back to space (mostly by clouds). About half of the energy absorbed at the surface goes into evaporating water, while smaller portions drive winds, photosynthesis (land and sea), and ocean currents. Additional non-solar inputs are geothermal and tidal in origin [[63](#ref-63)–[65](#ref-65)].
 
 Energy inputs to the earth, ignoring the radiation piece (since that is an output channel). About 70% of incoming solar energy is absorbed by the atmosphere and land, while about 30% is immediately reflected back to space (mostly by clouds). About half of the energy absorbed at the surface goes into evaporating water, while smaller portions drive winds, photosynthesis (land and sea), and ocean currents. Additional non-solar inputs are geothermal and tidal in origin [[63](#ref-63)–[65](#ref-65)].
 :::

@@ -210,7 +210,7 @@ Besides the limit on how much power can be pulled out of the air by a single tur
 :::{figure} ../images/fig-12-5.svg
 :label: fig-12-5
 :enumerator: 12.5
-:alt: Overhead view of wind farm turbine locations, for the case where separations are 10 rotor-diameters along the wind direction, and 5 rotor diameters in the cross-wind direction—a geometry that yields 1.6% area “fill factor.” Current recommendations
+:alt: Overhead view of wind farm turbine locations, for the case where separations are 10 rotor-diameters along the wind direction, and 5 rotor diameters in the cross-wind direction—a geometry that yields 1.6% area “fill factor.” Current recommendations are for 15 and 8 rotor diameters, which is significantly more sparse than even this depiction, leading to 0.65% area fill. Note that most wind turbines can turn to face the wind direction, for times when its direction is not the prevailing one.
 
 Overhead view of wind farm turbine locations, for the case where separations are 10 rotor-diameters along the wind direction, and 5 rotor diameters in the cross-wind direction—a geometry that yields 1.6% area “fill factor.” Current recommendations are for 15 and 8 rotor diameters, which is significantly more sparse than even this depiction, leading to 0.65% area fill. Note that most wind turbines can turn to face the wind direction, for times when its direction is not the prevailing one.
 :::
@@ -277,7 +277,7 @@ Global wind installations are rising rapidly, currently (as of 2020) above 600 G
 :::{figure} ../images/fig-12-8.png
 :label: fig-12-8
 :enumerator: 12.8
-:alt: Wind power by state, in terms of average generation, in GW, in 2018. The color scale may seem unhelpful, but the unavoidable truth is that many states don’t have a lot going on, and Texas is so dominant as to render other states almost
+:alt: Wind power by state, in terms of average generation, in GW, in 2018. The color scale may seem unhelpful, but the unavoidable truth is that many states don’t have a lot going on, and Texas is so dominant as to render other states almost insignificant. A logarithmic color scale could help, but then the important lesson on the gross disparity might go unappreciated.
 
 Wind power by state, in terms of average generation, in GW, in 2018. The color scale may seem unhelpful, but the unavoidable truth is that many states don’t have a lot going on, and Texas is so dominant as to render other states almost insignificant. A logarithmic color scale could help, but then the important lesson on the gross disparity might go unappreciated.
 :::
