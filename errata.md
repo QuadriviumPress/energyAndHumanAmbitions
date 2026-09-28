@@ -16,7 +16,7 @@ Every entry cites `file:line` against the Markdown sources in this repository
 and quotes the text as it currently stands. Entries are grouped by kind, and
 within each group ordered by where they appear in the book.
 
-Two kinds of error are mixed together here and are labelled as such:
+Two kinds of error are mixed together here and are labeled as such:
 
 - **Author errata** — mistakes that are in the text itself (a wrong number, a
   misspelling, a grammatical slip). These should also be reported upstream at
@@ -86,7 +86,7 @@ the source:
   instead of stripping it (preserving units, exponents, chemical subscripts,
   degree signs, etc.), to truncate at word boundaries instead of mid-word,
   and to clean up the spacing artifacts math-stripping had left behind. Every
-  labelled figure's alt text was regenerated from its caption.
+  labeled figure's alt text was regenerated from its caption.
 - **Split captions and admonition titles** are fixed: Box 6.4, Box 9.1, Box
   15.2, and the various figure captions that had spilled into a margin block
   were rejoined; the unlabeled `Example` admonition in `ch-10` was merged
@@ -95,7 +95,7 @@ the source:
   Table 9.2, `ch-13` Table 13.1, the `ch-15` isotope tables, and `ch-13`
   Problem 26 are all correctly structured; `ch-06` Table 6.2's header was
   repaired to properly label its three columns.
-- **Stray artefacts** (OCR leftovers, axis-label fragments, warning-symbol
+- **Stray artifacts** (OCR leftovers, axis-label fragments, warning-symbol
   runs, unbalanced bold markers, dropped ⌘ symbols, run-together lyric lines,
   a dangling margin fragment, a mid-sentence paragraph break, and a broken
   answer-blank list) have been removed or repaired throughout.
