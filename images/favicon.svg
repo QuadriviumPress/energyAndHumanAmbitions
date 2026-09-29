@@ -1,5 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="10" fill="#0b3d2e"/>
-  <circle cx="32" cy="34" r="17" fill="#2e8b57"/>
-  <path d="M8 44 C20 18 44 18 56 44" fill="none" stroke="#f4d35e" stroke-width="5" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Energy and Human Ambitions</title>
+  <rect width="64" height="64" rx="12" fill="#143d2e"/>
+  <circle cx="24" cy="40" r="16" fill="#2e8b57"/>
+  <path d="M12 42c5-5 12-2 18-7" fill="none" stroke="#d8f3e2" stroke-width="2.5" stroke-linecap="round"/>
+  <g stroke="#c9a227" stroke-width="2.4" stroke-linecap="round">
+    <path d="M46 7v5M46 24v5M35 18h5M52 18h5M39 11l3.5 3.5M53 11l-3.5 3.5M39 25l3.5-3.5M53 25l-3.5-3.5"/>
+  </g>
+  <circle cx="46" cy="18" r="6.5" fill="#c9a227"/>
 </svg>
