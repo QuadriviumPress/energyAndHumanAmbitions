@@ -40,6 +40,7 @@ project:
         - http://Climate.gov
         - https://arxiv.org/ftp/arxiv/papers/2010/2010.00982.pdf
         - https://doi.org/10.1002/we.2139
+        - https://doi.org/10.1002/we.469
         - https://escholarship.org/uc/energy_ambitions
         - https://escholarship.org/uc/item/9js5291m
         - https://newsociety.com/books/e/eating-fossil-fuels
@@ -67,9 +68,15 @@ project:
       severity: ignore
       keys:
         - https://doi.org/10.1002/we.2139
+        - https://doi.org/10.1002/we.469
+        - https://doi.org/10.1007/s10584-011-0205-7
         - https://doi.org/10.2495/978-1-84564-205-1/03
+        - https://doi.org/10.3390/en12101920
         - "10.1002/we.2139"
+        - "10.1002/we.469"
+        - "10.1007/s10584-011-0205-7"
         - "10.2495/978-1-84564-205-1/03"
+        - "10.3390/en12101920"
   toc:
     - file: index.md
     - file: front/preface.md
