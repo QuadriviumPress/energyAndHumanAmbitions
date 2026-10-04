@@ -94,7 +94,7 @@ British thermal unit
 Btu
 : is short for British thermal unit.
 
-Calorie
+Calorie (kcal)
 : (Cal, or kcal) is a unit of energy, defined as the amount of energy required to heat one kilogram (1 kg, 1 L, 1,000 $\mathrm{cm}^{3})$ of water by $1^{\circ}\mathrm{C}$. It is equivalent to 4,184 Joules, and is the exact same thing as a kilocalorie. Note the capital C differentiates it from the calorie, which is 1,000 times smaller, making this the dumbest unit convention around, and strongly favoring the use of the equivalent kcal instead. 78
 
 calorie
